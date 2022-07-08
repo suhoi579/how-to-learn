@@ -273,16 +273,13 @@ color: #2F80ED;
   margin: 0;
 }
 
-.table__text {
+.table__text_theme_dark {
+  z-index: 1;
+  position: relative;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
   margin-top: 20px;
-}
-
-.table__text_theme_dark {
-  z-index: 1;
-  position: relative;
 }
 
 .kaufman__traingle {

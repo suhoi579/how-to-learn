@@ -1,0 +1,7 @@
+.video__iframe {
+    transform: translate(0px, 50px);
+}
+
+.video__iframe:first-of-type {
+    margin-right: 20px;
+}
